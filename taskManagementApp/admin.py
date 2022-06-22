@@ -11,3 +11,5 @@ admin.site.register(Project)
 admin.site.register(CustomColumnValue)
 admin.site.register(Permission)
 admin.site.register(TaskAttribute)
+
+
